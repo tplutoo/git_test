@@ -1,3 +1,5 @@
 I guess VSCode is not too bad after all
 Sublime is the best though, I don't think a text editor has
 to have all these features but maybe they'll grow on me.
+Testing to see if I can commit a single file from the staging area.
+    I hypothesize that I can.
